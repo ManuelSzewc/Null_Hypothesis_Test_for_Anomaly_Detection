@@ -1,4 +1,4 @@
-# Null_Hypothesis_Test_CWoLA
+# Null Hypothesis Test for Anomaly Detection
 
 This repository contains all necessary code to reproduce the results of arXiv:2210.02226
 
