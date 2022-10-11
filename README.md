@@ -1,6 +1,6 @@
 # Null Hypothesis Test for Anomaly Detection
 
-This repository contains all necessary code to reproduce the results of [arXiv:2210.02226](https://arxiv.org/abs/2210.02226).
+This repository contains all necessary code to reproduce the results of [arXiv:2210.02226](https://arxiv.org/abs/2210.02226) by Jernej F. Kamenik and Manuel Szewc.
 
 The [R&D](https://zenodo.org/record/6466204#.Y0Ao3i8Rpz8) and [BB1](https://zenodo.org/record/4536624#.Y0Ao0C8Rpz8) datasets need to be downloaded and [preprocessed](https://github.com/ManuelSzewc/Null_Hypothesis_Test_for_Anomaly_Detection/blob/main/preprocessing.ipynb).
 
